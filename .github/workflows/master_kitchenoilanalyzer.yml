@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'kitchenoilanalyzer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_419C6B6121DF4700B0F968EDB6934A7A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBBEABCDC32D44EA9FA27D429C055575 }}
           package: .
